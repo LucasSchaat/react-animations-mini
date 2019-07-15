@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "motion": "^5.0.0-beta26",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.1",
+    "react-motion": "^0.5.2"
   },
   "devDependencies": {
     "react-scripts": "1.0.13"
